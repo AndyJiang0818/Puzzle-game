@@ -1,3 +1,7 @@
+# Run the code
+
+Copy and paste the code in your java ide. 
+
 # Puzzle-game
 
 Click on the number, then the number will be moved to the empty space. 
