@@ -1,9 +1,9 @@
-# Run the code
-
-Copy and paste the code in your java ide. 
-
 # Puzzle-game
 
+## Run the code
+Clone the file and put it in your java ide. 
+
+## How it works
 Click on the number, then the number will be moved to the empty space. 
 
 In order to win this game, you must make it in the following order: 
